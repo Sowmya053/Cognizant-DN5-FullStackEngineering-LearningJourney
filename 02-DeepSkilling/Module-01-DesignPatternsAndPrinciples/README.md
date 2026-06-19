@@ -1,28 +1,29 @@
 # Module 01 - Design Patterns and Principles
 
-## Topics Covered
-
-### SOLID Principles
+## SOLID Principles
 - SRP
 - OCP
 - LSP
 - ISP
 - DIP
 
-### Creational Patterns
+## Creational Patterns
 - Singleton
 - Factory Method
 - Builder
 
-### Structural Patterns
+## Structural Patterns
 - Adapter
 - Decorator
 - Proxy
 
-### Behavioral Patterns
+## Behavioral Patterns
 - Observer
 - Strategy
 - Command
 
-### Status
-In Progress
+## Status
+Completed
+
+## Learning Outcome
+Learned SOLID Principles and commonly used Design Patterns for scalable and maintainable software development.
