@@ -1,0 +1,225 @@
+# This file specifies patterns that should be ignored by git
+
+# ============================================
+# Visual Studio & VS Code
+# ============================================
+.vs/
+.vscode/
+*.sln.user
+*.sln.DotSettings
+*.sln.DotSettings.user
+*.vscode
+*.swp
+*.swo
+*~
+*.code-workspace
+.idea/
+
+# ============================================
+# .NET & ASP.NET Core
+# ============================================
+bin/
+obj/
+out/
+dist/
+*.dll
+*.exe
+*.o
+*.so
+*.dylib
+*.class
+*.jar
+*.war
+*.ear
+*.user
+*.suo
+*.sln.user
+project.lock.json
+project.fragment.lock.json
+artifacts/
+*.nuget.props
+*.nuget.targets
+packages/
+.nuget/
+*.nupkg
+*.snupkg
+.mfractor/
+appsettings.Development.json
+appsettings.Production.json
+
+# ============================================
+# Node.js & npm
+# ============================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+dist/
+dist-ssr/
+coverage/
+*.tsbuildinfo
+.angular/
+
+# ============================================
+# Angular
+# ============================================
+angular.json
+tsconfig.app.json
+tsconfig.spec.json
+e2e/
+.angular/cache/
+
+# ============================================
+# Database Files
+# ============================================
+*.mdf
+*.ldf
+*.ndf
+*.ibd
+*.ibdata1
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db-journal
+
+# ============================================
+# Environment Variables
+# ============================================
+.env
+.env.local
+.env.*.local
+.env.Development.local
+.env.Staging.local
+.env.Production.local
+
+# ============================================
+# Docker
+# ============================================
+.dockerignore
+docker-compose.override.yml
+.docker/
+
+# ============================================
+# Build & Dist
+# ============================================
+build/
+dist/
+out/
+releases/
+*.tar.gz
+*.zip
+
+# ============================================
+# Logs
+# ============================================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# ============================================
+# Temporary Files
+# ============================================
+*.tmp
+*.tmp.*
+*.bak
+*.backup
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.autosave
+*.orig
+
+# ============================================
+# Testing
+# ============================================
+.coverage
+coverage/
+htmlcov/
+.pytest_cache/
+.nyc_output/
+coverage.xml
+
+# ============================================
+# IDE Specific
+# ============================================
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+nbproject/
+.gradle/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+.metadata
+
+# ============================================
+# OS Specific
+# ============================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ============================================
+# Archives
+# ============================================
+*.rar
+*.zip
+*.7z
+*.gz
+*.bz2
+*.tar
+
+# ============================================
+# Documentation Build
+# ============================================
+site/
+
+# ============================================
+# Secure Files
+# ============================================
+*.pem
+*.key
+*.p8
+*.p12
+*.pfx
+*.cer
+*.crt
+secrets.json
+appsettings.secrets.json
+
+# ============================================
+# Azure
+# ============================================
+.azure/
+.azurePipelines/
+bin/
+obj/
+local.settings.json
+
+# ============================================
+# Keep gitkeep files
+# ============================================
+!.gitkeep
+
+# ============================================
+# Specific to this project
+# ============================================
+# Add project-specific ignores below
