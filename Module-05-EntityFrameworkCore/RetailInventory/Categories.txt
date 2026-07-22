@@ -1,0 +1,4 @@
+USE RetailInventoryDB;
+GO
+
+SELECT * FROM Categories;
