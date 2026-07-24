@@ -1,0 +1,6 @@
+@RetailStoreSwaggerAPI_HostAddress = http://localhost:5240
+
+GET {{RetailStoreSwaggerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

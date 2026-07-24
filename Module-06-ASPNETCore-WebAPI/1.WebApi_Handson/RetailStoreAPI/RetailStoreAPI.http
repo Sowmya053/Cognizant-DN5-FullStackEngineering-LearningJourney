@@ -1,0 +1,11 @@
+@RetailStoreAPI_HostAddress = http://localhost:5290
+
+GET {{RetailStoreAPI_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{RetailStoreAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
