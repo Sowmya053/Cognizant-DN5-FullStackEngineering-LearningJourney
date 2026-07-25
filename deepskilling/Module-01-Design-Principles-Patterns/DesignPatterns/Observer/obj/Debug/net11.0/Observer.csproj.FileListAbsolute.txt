@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\bin\Debug\net11.0\Observer.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\bin\Debug\net11.0\Observer.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\bin\Debug\net11.0\Observer.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\bin\Debug\net11.0\Observer.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\bin\Debug\net11.0\Observer.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\refint\Observer.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\Observer.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Observer\obj\Debug\net11.0\ref\Observer.dll

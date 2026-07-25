@@ -1,0 +1,12 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\bin\Debug\net11.0\CustomerCommLib.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\bin\Debug\net11.0\CustomerCommLib.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\bin\Debug\net11.0\CustomerCommLib.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\CustomerCommLib.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\CustomerCommLib.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\refint\CustomerCommLib.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\CustomerCommLib.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-04-NUnit-Moq\Moq-Handson\CustomerCommLib\obj\Debug\net11.0\ref\CustomerCommLib.dll

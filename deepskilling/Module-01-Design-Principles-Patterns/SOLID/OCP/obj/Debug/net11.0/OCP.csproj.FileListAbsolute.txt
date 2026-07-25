@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\bin\Debug\net11.0\OCP.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\bin\Debug\net11.0\OCP.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\bin\Debug\net11.0\OCP.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\bin\Debug\net11.0\OCP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\bin\Debug\net11.0\OCP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\refint\OCP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\OCP.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\OCP\obj\Debug\net11.0\ref\OCP.dll

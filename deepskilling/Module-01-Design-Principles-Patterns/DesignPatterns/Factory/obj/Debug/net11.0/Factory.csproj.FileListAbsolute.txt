@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\bin\Debug\net11.0\Factory.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\bin\Debug\net11.0\Factory.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\bin\Debug\net11.0\Factory.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\bin\Debug\net11.0\Factory.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\bin\Debug\net11.0\Factory.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\refint\Factory.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\Factory.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Factory\obj\Debug\net11.0\ref\Factory.dll

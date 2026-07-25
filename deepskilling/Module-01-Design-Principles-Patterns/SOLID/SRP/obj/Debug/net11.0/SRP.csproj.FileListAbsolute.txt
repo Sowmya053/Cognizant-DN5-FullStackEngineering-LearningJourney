@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\bin\Debug\net11.0\SRP.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\bin\Debug\net11.0\SRP.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\bin\Debug\net11.0\SRP.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\bin\Debug\net11.0\SRP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\bin\Debug\net11.0\SRP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\refint\SRP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\SRP.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\SRP\obj\Debug\net11.0\ref\SRP.dll

@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\bin\Debug\net11.0\BinarySearch.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\bin\Debug\net11.0\BinarySearch.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\bin\Debug\net11.0\BinarySearch.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\bin\Debug\net11.0\BinarySearch.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\bin\Debug\net11.0\BinarySearch.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\refint\BinarySearch.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\BinarySearch.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BinarySearch\obj\Debug\net11.0\ref\BinarySearch.dll

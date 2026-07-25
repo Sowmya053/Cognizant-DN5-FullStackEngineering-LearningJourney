@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "8fLU4RZwELY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mitta\\DN-5.0-DeepSkilling\\Module-06-ASPNETCore-WebAPI\\1.WebApi_Handson\\RetailStoreAPI\\RetailStoreAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mitta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\11.0.0-preview.4.26230.115\\microsoft.aspnetcore.openapi.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\mitta\\.nuget\\packages\\microsoft.openapi\\3.3.1\\microsoft.openapi.3.3.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'Microsoft.OpenApi' 3.3.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-v5pm-xwqc-g5wc",
+      "projectPath": "C:\\Users\\mitta\\DN-5.0-DeepSkilling\\Module-06-ASPNETCore-WebAPI\\1.WebApi_Handson\\RetailStoreAPI\\RetailStoreAPI.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\mitta\\DN-5.0-DeepSkilling\\Module-06-ASPNETCore-WebAPI\\1.WebApi_Handson\\RetailStoreAPI\\RetailStoreAPI.csproj",
+      "libraryId": "Microsoft.OpenApi",
+      "targetGraphs": [
+        "net11.0"
+      ]
+    }
+  ]
+}

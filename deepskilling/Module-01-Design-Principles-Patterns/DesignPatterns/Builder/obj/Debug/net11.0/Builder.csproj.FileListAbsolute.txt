@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\bin\Debug\net11.0\Builder.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\bin\Debug\net11.0\Builder.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\bin\Debug\net11.0\Builder.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\bin\Debug\net11.0\Builder.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\bin\Debug\net11.0\Builder.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\refint\Builder.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\Builder.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Builder\obj\Debug\net11.0\ref\Builder.dll

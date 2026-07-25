@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\bin\Debug\net11.0\LinkedList.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\bin\Debug\net11.0\LinkedList.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\bin\Debug\net11.0\LinkedList.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\bin\Debug\net11.0\LinkedList.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\bin\Debug\net11.0\LinkedList.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\refint\LinkedList.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\LinkedList.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\LinkedList\obj\Debug\net11.0\ref\LinkedList.dll

@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\bin\Debug\net11.0\Trees.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\bin\Debug\net11.0\Trees.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\bin\Debug\net11.0\Trees.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\bin\Debug\net11.0\Trees.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\bin\Debug\net11.0\Trees.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\refint\Trees.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\Trees.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Trees\obj\Debug\net11.0\ref\Trees.dll

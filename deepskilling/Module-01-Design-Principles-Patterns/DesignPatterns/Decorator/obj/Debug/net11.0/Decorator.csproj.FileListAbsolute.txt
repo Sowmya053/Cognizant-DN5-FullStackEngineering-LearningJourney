@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\bin\Debug\net11.0\Decorator.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\bin\Debug\net11.0\Decorator.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\bin\Debug\net11.0\Decorator.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\bin\Debug\net11.0\Decorator.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\bin\Debug\net11.0\Decorator.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\refint\Decorator.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\Decorator.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Decorator\obj\Debug\net11.0\ref\Decorator.dll

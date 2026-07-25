@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\bin\Debug\net11.0\Command.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\bin\Debug\net11.0\Command.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\bin\Debug\net11.0\Command.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\bin\Debug\net11.0\Command.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\bin\Debug\net11.0\Command.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\refint\Command.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\Command.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\DesignPatterns\Command\obj\Debug\net11.0\ref\Command.dll

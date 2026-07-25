@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\bin\Debug\net11.0\Queue.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\bin\Debug\net11.0\Queue.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\bin\Debug\net11.0\Queue.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\bin\Debug\net11.0\Queue.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\bin\Debug\net11.0\Queue.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\refint\Queue.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\Queue.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Queue\obj\Debug\net11.0\ref\Queue.dll

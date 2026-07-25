@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\bin\Debug\net11.0\Arrays.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\bin\Debug\net11.0\Arrays.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\bin\Debug\net11.0\Arrays.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\bin\Debug\net11.0\Arrays.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\bin\Debug\net11.0\Arrays.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\refint\Arrays.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\Arrays.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Arrays\obj\Debug\net11.0\ref\Arrays.dll

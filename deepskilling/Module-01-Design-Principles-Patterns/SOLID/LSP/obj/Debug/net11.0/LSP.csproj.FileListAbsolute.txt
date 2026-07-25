@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\bin\Debug\net11.0\LSP.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\bin\Debug\net11.0\LSP.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\bin\Debug\net11.0\LSP.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\bin\Debug\net11.0\LSP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\bin\Debug\net11.0\LSP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\refint\LSP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\LSP.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\LSP\obj\Debug\net11.0\ref\LSP.dll

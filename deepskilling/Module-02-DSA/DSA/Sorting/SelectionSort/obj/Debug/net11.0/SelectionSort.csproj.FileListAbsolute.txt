@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\bin\Debug\net11.0\SelectionSort.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\bin\Debug\net11.0\SelectionSort.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\bin\Debug\net11.0\SelectionSort.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\bin\Debug\net11.0\SelectionSort.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\bin\Debug\net11.0\SelectionSort.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\refint\SelectionSort.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\SelectionSort.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Sorting\SelectionSort\obj\Debug\net11.0\ref\SelectionSort.dll

@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\bin\Debug\net11.0\ISP.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\bin\Debug\net11.0\ISP.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\bin\Debug\net11.0\ISP.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\bin\Debug\net11.0\ISP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\bin\Debug\net11.0\ISP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\refint\ISP.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ISP.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-01-Design-Principles-Patterns\SOLID\ISP\obj\Debug\net11.0\ref\ISP.dll

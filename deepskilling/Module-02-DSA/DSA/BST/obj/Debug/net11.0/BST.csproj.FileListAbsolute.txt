@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\bin\Debug\net11.0\BST.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\bin\Debug\net11.0\BST.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\bin\Debug\net11.0\BST.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\bin\Debug\net11.0\BST.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\bin\Debug\net11.0\BST.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\refint\BST.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\BST.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\BST\obj\Debug\net11.0\ref\BST.dll

@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\bin\Debug\net11.0\Graph.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\bin\Debug\net11.0\Graph.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\bin\Debug\net11.0\Graph.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\bin\Debug\net11.0\Graph.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\bin\Debug\net11.0\Graph.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\refint\Graph.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\Graph.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Graph\obj\Debug\net11.0\ref\Graph.dll

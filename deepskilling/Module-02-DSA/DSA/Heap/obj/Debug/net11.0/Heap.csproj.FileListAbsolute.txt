@@ -1,0 +1,15 @@
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\bin\Debug\net11.0\Heap.exe
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\bin\Debug\net11.0\Heap.deps.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\bin\Debug\net11.0\Heap.runtimeconfig.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\bin\Debug\net11.0\Heap.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\bin\Debug\net11.0\Heap.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.AssemblyInfoInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.AssemblyInfo.cs
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.csproj.CoreCompileInputs.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.sourcelink.json
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\refint\Heap.dll
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.pdb
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\Heap.genruntimeconfig.cache
+C:\Users\mitta\DN-5.0-DeepSkilling\Module-02-DSA\DSA\Heap\obj\Debug\net11.0\ref\Heap.dll
